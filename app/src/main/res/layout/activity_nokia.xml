@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="in.ac.sharda.Nokia.Nokia">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginRight="100dp"
+            android:text="NOKIA"
+            android:textColor="#0000FF"
+            android:textAlignment="center"
+            android:textSize="30sp" />
+
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="143dp"
+            android:layout_marginEnd="100dp"
+            android:layout_marginRight="100dp"
+            android:src="@drawable/nokia1">
+
+
+        </ImageView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Add to Cart"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="177dp"
+            android:layout_marginEnd="100dp"
+            android:layout_marginRight="100dp"
+            android:src="@drawable/nokia2">
+
+        </ImageView>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Add to Cart"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="177dp"
+            android:layout_marginRight="100dp"
+            android:src="@drawable/nokia3">
+
+        </ImageView>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Add to Cart"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="100dp"
+            android:src="@drawable/nokia4">
+
+        </ImageView>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Add to Cart"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="100dp"
+            android:src="@drawable/nokia5">
+
+        </ImageView>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Add to Cart"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="100dp"
+            android:src="@drawable/nokia6">
+
+        </ImageView>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Add to Cart"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="100dp"
+            android:src="@drawable/nokia7">
+
+        </ImageView>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Add to Cart"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="100dp"
+            android:src="@drawable/nokia8">
+
+        </ImageView>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Add to Cart"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="100dp"
+            android:src="@drawable/nokia9">
+
+        </ImageView>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Add to Cart"
+            android:textStyle="bold" />
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="100dp"
+            android:src="@drawable/nokia10">
+
+        </ImageView>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Add to Cart"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+</ScrollView>

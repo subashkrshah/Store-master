@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img"
+    android:orientation="vertical"
+    tools:context="in.ac.sharda.Shop.Shop">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtView"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/colorPrimary"/>
+
+        <ImageView
+            android:id="@+id/imgLogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn1"
+            android:textColor="@color/colorAccent"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+            android:padding="10dp"
+            android:background="@drawable/d"
+            android:textStyle="italic"
+            android:textColorHint="@color/colorAccent"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn2"
+            android:textColor="@color/colorAccent"
+            android:background="@drawable/d1"
+            android:padding="10dp"
+            android:layout_marginRight="30dp"
+            android:textStyle="italic"
+            android:layout_marginLeft="30dp"
+            android:textColorHint="@color/colorAccent"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn3"
+            android:textColor="@color/colorAccent"
+            android:padding="10dp"
+            android:background="@drawable/d9"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="-5dp"
+            android:textStyle="italic"
+            android:layout_marginLeft="30dp"
+            android:textColorHint="@color/colorAccent"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn4"
+            android:textColor="@color/colorAccent"
+            android:padding="10dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/d6"
+            android:layout_marginLeft="30dp"
+            android:textStyle="italic"
+            android:textColorHint="@color/colorAccent"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn5"
+            android:textColor="@color/colorAccent"
+            android:padding="10dp"
+            android:textStyle="italic"
+            android:background="@drawable/d4"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn6"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:textColor="@color/colorAccent"
+            android:padding="10dp"
+            android:background="@drawable/d5"
+            android:textStyle="italic"
+            android:textColorHint="@color/colorAccent"
+            android:layout_marginTop="10dp"
+            />
+
+    </LinearLayout>
+
+</ScrollView>
